@@ -1,5 +1,5 @@
 # Personal Portfolio Website
-    ......
+  
      Welcome to my portfolio website! This project is a two paege site that included Home page and contact page. It was created using HTML and Basic CSS,to provide a clean and starightforward user expericence..
 
  Project Name : Personal Portfolio Website
@@ -8,7 +8,7 @@
  Purpose      : Professional online presence
 
 
-## How to View
+## How to View :
  you can access my portrfolio website by visting[ link] free to explore the content and get in touch!
 
 ## Technologies Used :
