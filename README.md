@@ -9,7 +9,7 @@
 
 
 ## How to View :
- you can access my portrfolio website by visting[ link] free to explore the content and get in touch!
+  - you can access my portrfolio website by visting[ https://kameshstr88-hub.github.io/portfolio-simple-website/] free to explore the content and get in touch!
 
 ## Technologies Used :
   - HTML5
